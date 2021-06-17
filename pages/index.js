@@ -25,26 +25,26 @@ export default function Home() {
             <p>Find in-depth information about Next.js features and API.</p>
           </a>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
+          <a href="https://aveeplayertemplatedownload.com/avee-player/avee-player-pro/" className={styles.card}>
             <h3>Learn &rarr;</h3>
             <p>Know how to create amazing videos using avee music player pro!</p>
           </a>
 
           <a
-            href="https://github.com/vercel/next.js/tree/master/examples"
+            href="https://aveeplayertemplatedownload.com/avee-player-template/"
             className={styles.card}
           >
             <h3>Examples &rarr;</h3>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+            <p>Find the latest visualizer templates here</p>
           </a>
 
           <a
-            href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://aveeplayertemplatedownload.com/avee-player-template/frequently-asked-questions/"
             className={styles.card}
           >
-            <h3>Deploy &rarr;</h3>
+            <h3>FAQs &rarr;</h3>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+              Frequently Asked questions from avee player users.
             </p>
           </a>
         </div>
@@ -57,7 +57,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           Powered by{' '}
-          <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
+          <img src="https://aveebaba.com/wp-content/uploads/2021/04/avee-Baba-new-logo.png" alt="Avee Baba Logo" className={styles.logo} />
         </a>
       </footer>
     </div>
