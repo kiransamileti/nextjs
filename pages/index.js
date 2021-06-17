@@ -1,5 +1,5 @@
+import Head from 'next/head'
 import styles from '../styles/Home.module.css'
-
 export default function Home() {
   return (
     <div className={styles.container}>
@@ -10,16 +10,16 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Welcome to <a href="https://aveebaba.com/">Avee Baba</a>
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
+          Get started with{' '}
+          <code className={styles.code}>avee player</code>
         </p>
 <a href="https://technologyera.in/avee-player-template-download/">Free Avee Player Templates</a>
         <div className={styles.grid}>
-          <a href="https://aveebaba.com/" className={styles.card}>
+          <a href="https://aveebaba.com/templates/avee-player/" className={styles.card}>
             <h3>Documentation &rarr;</h3>
             <p>Find in-depth information about avee player and visualizer templates.</p>
           </a>
