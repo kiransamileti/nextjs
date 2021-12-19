@@ -17,7 +17,7 @@ export default function Home() {
           Get started with{' '}
           <code className={styles.code}>avee player</code>
         </p>
-<a href="https://technologyera.in/avee-player-template-download/">Free Avee Player Templates</a>
+<a href="https://aveebaba.com/templates/avee-player/download/">Free Avee Player Templates</a>
         <div className={styles.grid}>
           <a href="https://aveebaba.com/templates/avee-player/" className={styles.card}>
             <h3>Documentation &rarr;</h3>
